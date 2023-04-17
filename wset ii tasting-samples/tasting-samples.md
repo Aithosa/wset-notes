@@ -10,3 +10,11 @@
 |1-4|贝尔塔尼潘多拉谷红葡萄酒<br>Bertani Valpolicella DOC|瓦波利切拉<br>Valpolicella|80%科维纳Corvina,20%罗蒂内拉Rondinella|2021|12.00%|干红||
 |1-5|巴罗洛侯爵庄园红葡萄酒<br>Marchesi di Barolo del Comune di barolo DOCG|皮埃蒙特巴罗洛<br>Piemonte barolo|内比奥罗<br>Nebbiolo|2012|14.00%|干红||
 |1-6+|玛浓维尼斯蜜思嘉甜白葡萄酒<br>Manon Muscat de Beaumes de Venise|罗呐河谷<br>Rhone|麝香葡萄<br>Muscat|NV|15.00%| 加强酒|含糖量111.5g/L|
+
+## 单元二 影响红葡萄酒生产的因素、Pinot Noir、Zinfandel/Primitivo
+
+|编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|2-1|乔伊莱特一级园<br>Domaine Joliet premier Cru|勃艮第菲克桑佩丽一级园<br>Fixin 1er Cru|黑比诺<br>Pinot Noir|2014| 13.50%|干红||
+|2-2|滑行山丘黑比诺<br>Sliding Hill Pinot Noir|马尔堡<br>Marlborough|黑比诺<br>Pinot Noir|2018|13.50%|干红| --- |
+|2-3|喜鹊酒庄老藤仙粉黛红葡萄酒<br>Renwood winery Old Vine dry creek valley Zinfandel|加州<br>California|仙粉黛<br>Zinfandel|2016|16.80%|干红| --- |
