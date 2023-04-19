@@ -53,3 +53,16 @@
 |5-4|赤琥酒庄拉斯马里亚园赤霞珠红葡萄酒<br>Gandolini Las 3 Marias Vineyards Cabernet Sauvignon|智利麦坡谷<br>Maipo Valley|赤霞珠<br>Cabernet Sauvignon|2013|14.50%|干红|90%赤霞珠<br>5.5%品丽珠<br>4.5%小味儿多<br>法国新橡木桶中陈年21-24个月，瓶中陈年2年|
 |5-5|洛神酒庄圣约瑟夫“巨石”老藤红葡萄酒<br>Tardieu-Laurent Saint Joseph Les Roches|Saint-Joseph|西拉<br>Syrah|2014|12.50%|干红|Vieilles Vignes老藤<br>18个月新橡木桶熟成有机种植酿造<br>未澄清未过滤|
 |5-6|萄贝小农庄西拉<br>Torbreck Barossa Valley The Steading Shiraz|巴罗萨谷<br>Barossa Valley|西拉<br>Shiraz|2017|15.00%|干红|Robert Parker 96|
+
+## 单元六 黑葡萄品种 Gamay、Grenache/Garnacha、Tempranillo、Carmenere、Malbec、Pinotage
+
+|编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|6-1|王子酒窖罗纳河谷老藤干红葡萄酒<br>Cellier des Princes Vieilles Vignes|罗讷河谷<br>Cote du Rhone|歌海娜Grenache<br>西拉 Syral<br>慕合怀特|2020|15.00%|干红||
+|6-2|佩高酒庄教皇新堡珍藏干红葡萄酒<br>Domaine du Pegau Chateauneuf-du-pape Cuvee-Reserve|教皇新堡<br>Chateauneuf-du-pape|歌海娜Grenache<br>西拉 Syral<br>慕合怀特|2017|14.00%|干红||
+|6-3|天使丹魄红葡萄酒<br>Vina Valoria Tempranillo|里奥哈<br>Rioja|丹魄<br>Tempranillo|2018|13.00%|干红||
+|6-4|天使珍藏<br>Vina Valoria Reserva Rioja Reserva|上里奥哈<br>Rioja Alta|丹魄<br>Tempranillo|2013|13.50%|干红|橡木桶陈酿24个月，瓶中熟成36个月|
+|6-5|巴赛拉16号酒庄佳美娜家族珍藏干红<br>Parcela N16 Familia Reserva|智利迈坡谷<br>Maipo Valley|佳美娜，西拉<br>Carmenere|2018|14.50%|干红|法桶、美桶混合14个月|
+|6-6|诗梦得红山皮诺塔吉干红2016<br>Simonsig RedHill Pinotage 2016|南非西开普敦<br>South African WesternCape, Stellenbosch|皮诺塔基<br>Pinotage|2016|14.50%|干红|15 months oaking.<br>79% French Oak, 21%American White Oak, 80% New Oak, 20% Second Fill|
+|6-7+|艾斯德科老藤马尔贝克红葡萄酒2017<br>EI Esteco Old Vines Malbec|阿根廷卡法亚特山谷<br>Argentina Cafayate Valley|马尔贝克<br>Malbec|2017|14.50%|干红|陈年时间6-8个月，2017年份产量仅为4000瓶|
+|6-8+|威帝酒庄2022博若莱村级新酒<br>Famille Descombe Beaujolais Viage Nouveau 2022|法国博若莱<br>Beaujolais|佳美<br>Gamay|2022|13.50%|干红||
