@@ -66,3 +66,25 @@
 |6-6|诗梦得红山皮诺塔吉干红2016<br>Simonsig RedHill Pinotage 2016|南非西开普敦<br>South African WesternCape, Stellenbosch|皮诺塔基<br>Pinotage|2016|14.50%|干红|15 months oaking.<br>79% French Oak, 21%American White Oak, 80% New Oak, 20% Second Fill|
 |6-7+|艾斯德科老藤马尔贝克红葡萄酒2017<br>EI Esteco Old Vines Malbec|阿根廷卡法亚特山谷<br>Argentina Cafayate Valley|马尔贝克<br>Malbec|2017|14.50%|干红|陈年时间6-8个月，2017年份产量仅为4000瓶|
 |6-8+|威帝酒庄2022博若莱村级新酒<br>Famille Descombe Beaujolais Viage Nouveau 2022|法国博若莱<br>Beaujolais|佳美<br>Gamay|2022|13.50%|干红||
+
+## 单元七 白葡萄品种 Cortese、Garganega、Verdicchio、Fiano 黑葡萄品种 Nebbiolo、Barbera、Corvina、Sangiovese、Montepulciano
+
+|编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|7-1|法芭雅酒庄提图卢斯白葡萄酒<br>Fazi Battaglia Titulus Verdicchio dei Castelli di Jesi Classico DOC|马尔凯<br>Marche|100% Verdicchio|2018|12.50%|干白||
+|7-2|马斯特酒庄兰蒂奇菲亚诺白葡萄酒<br>Mastroberardino Radici Fiano di Avellino DOCG|坎帕尼亚<br>Campanina|100% Fiano di Avellinc|2018|13.00%|干白||
+|7-3|费拉里斯巴贝拉红葡萄酒<br>Ferraris Del Martin Barbera d'Asti DOCG|皮埃蒙特<br>Piemonte|100% 巴贝拉 Barbera|2021|14.00%|干红||
+|7-4|贝尔塔尼瓦尔波利切拉阿玛若尼红<br>Collezione BertaniAmaronedella Valpolicella|威尼托<br>Veneto|85% Corvina<br>15% Rondinella|2017|15.50%|干红||
+|7-5|罗卡马契津加雷利经典基安蒂珍藏红葡萄酒<br>Rocca delle Macie Chianti Classico Riserva DOCG Famiglia Zingarelli|托斯卡纳基安蒂<br>Tuscany Chianti|90%桑娇维塞Sangiovese<br>5%赤霞珠Cabernet Sauvignon<br>5%梅洛Merlot|2016|14.50%|干红||
+|7-6|拉菲莱斯古堡副牌 莱斯珍宝 (苏玳一级名庄)<br>Carmes de Rieussec|苏玳<br>Sauternes|85% Semillon<br>15% Sauvignon Blanc|2008|13.50%|贵腐||
+
+## 单元八 起泡葡萄酒加强葡萄酒
+
+|编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|8-1|泰勒普罗塞克起泡白葡萄酒<br>Tallero Prosecco Treviso vino Spumante Extra Dry DOC|威尼托<br>Veneto|100%Glera格雷拉|NV|11.00%|Extra Dry<br>起泡酒||
+|8-2|项目卡瓦天然型起泡葡萄酒<br>PROYECTO CU4TRO CAVA BRUT|西班牙<br>Spain|40%马家婆、40%沙雷洛、15%帕雷亚达、5%霞多丽<br>40%Macabeo、40%Xarello、15%Parellada、5%chardonnay|NV|12.00%|起泡酒||
+|8-3|德乐梦香槟<br>Champagne Delamotte Brut NV|香槟 白丘区<br>ChampagneCote des Blanc|55%霞多丽Chardonnay、35%黑比诺 Pinot Noil、10%皮诺莫尼耶PinotMeuniel|NV|12.00%|香槟|柑橘水果混合小白花，金银，奶油蛋卷及酵母的气息。柠檬皮的清香和生梨皮 的水润香气同时出现，隐约有白垩土带来的矿物质感。<br>酒泥陈年30-36个月|
+|8-4|恋爱季ASTI起泡酒<br>Asti|阿斯蒂<br>Asti|莫斯卡托<br>Moscato|2020|7.00%|起泡酒||
+|8-5|卢土涛珍稀赫雷斯Oloroso"欧仁妮皇后”珍藏雪莉<br>Lustau Very Rare Oloroso Emperatriz Eugenia|赫雷斯<br>Jerez-Xeres|100%Palomino|NV|20.00%|加强酒|平均年龄15年|
+|8-6|五冠十年陈酿波特酒<br>Five Crowns 10 years Tawny Port|葡萄牙<br>Portugal|当地品种|NV|20.00%|加强酒|平均年龄10年|
