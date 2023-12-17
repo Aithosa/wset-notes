@@ -25,10 +25,10 @@
 |编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |3-1|美国贝灵哲白仙粉黛半甜桃红葡萄酒<br>Beringer White Zinfandel|加州<br>California|仙粉黛<br>Zinfandel|2016|10.00%|半干桃红||
-|3-2|蒂姆亚当斯雷司令干白<br>Tim Adams Riesling|克莱尔谷<br>Clare Valley|雷司令<br>Riesling|2014|11.50%|干白|James Halliday Wine Companion红五星酒庄<br>有二类香气(酵母、烤面包、烟熏)|
-|3-3|克尼普豪森男爵酒庄<br>Baron Knyphausen Riesling Kabinett 2018|德国莱茵高<br>Rheingau|雷司令<br>Riesling|2018|10.00%|半干白|有橡木(烟熏)|
+|3-2|蒂姆亚当斯雷司令干白<br>Tim Adams Riesling|克莱尔谷<br>Clare Valley|雷司令<br>Riesling|2014|11.50%|干白|James Halliday Wine Companion红五星酒庄|
+|3-3|克尼普豪森男爵酒庄<br>Baron Knyphausen Riesling Kabinett 2018|德国莱茵高<br>Rheingau|雷司令<br>Riesling|2018|10.00%|半干白||
 |3-4|赛贝格白诗南<br>Roodekrantz Brand Se Berg old vineyard Chenin Blanc|南非<br>South African|白诗南<br>Chenin Blanc|2021|12.50%|干白|1975年老藤白诗南，年产量1200瓶。<br>橡木桶陈年10个月|
-|3-5+|恋木传奇酒庄赛美蓉白葡萄酒<br>Brokenwood|猎人谷<br>Hunter Valley|赛美容<br>Semillon|2016|10.50%|干白|装瓶日期2016年5月26日<br>恋木传奇酒庄双红五星酒庄，连续25年荣登兰顿排行至尊级Exceptional<br>早采收|
+|3-5+|恋木传奇酒庄赛美蓉白葡萄酒<br>Brokenwood|猎人谷<br>Hunter Valley|赛美容<br>Semillon|2016|10.50%|干白|装瓶日期2016年5月26日<br>恋木传奇酒庄双红五星酒庄，连续25年荣登兰顿排行至尊级Exceptional|
 |3-6+|托卡伊阿苏五篓甜白贵腐酒<br>TOKAJI ASZU 5 PUTTONYOS|匈牙利托卡伊<br>Tokaj|福明特，哈斯莱威路<br>Furmint，Harslevelu|2014|9.50%|贵腐酒||
 
 ## 单元四 白葡萄品种 Chardonnay、Sauvignon Blanc、Pinot Grigio/Pinot Gris、Gewurztraminer、Viognier、Albarino
@@ -36,23 +36,22 @@
 |编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |4-1|阿尔伯特毕修夏布利干白葡萄酒<br>Albert Bichot Chablis|夏布利<br>Chablis|霞多丽<br>Chardonnay|2020|12.50%|干白||
-|4-2|雷内-莫尼尔默尔索村骑士园干白葡萄酒<br>Domaine Rene Monnier Meursault les Chevalieres|莫尔索<br>Meursault|霞多丽<br>Chardonnay|2020|13.00%|干白|一千多|
+|4-2|雷内-莫尼尔默尔索村骑士园干白葡萄酒<br>Domaine Rene Monnier Meursault les Chevalieres|莫尔索<br>Meursault|霞多丽<br>Chardonnay|2020|13.00%|干白||
 |4-3|奶油炸弹霞多丽干白<br>Buttery bomb Chardonnay|美国加州<br>california|霞多丽<br>Chardonnay|2018|13.50%|干白|全新法国橡木桶陈年8周|
 |4-4|翠夕古堡普伊芙美干白<br>Chateau de Tracy Pouilly Fume 2018|普伊富美<br>Pouilly Fume|长相思<br>Sauvignon Blanc|2018|13.50%|干白||
 |4-5|滑行山丘长相思<br>Sliding Hill Sauvignon Blanc|马尔堡<br>Marlborough|长相思<br>Sauvignon Blanc|2022|13.00%|干白||
 |4-6|伊甸园灰比诺半甜白葡萄酒<br>Edouard Leiber Pinot Gris|阿尔萨斯<br>Alsace|灰比诺<br>Pinot Gris|2021|12.50%|半甜白||
-|      |                                                              |                          |                           |      |        |        ||
 
 ## 单元五 红葡萄品种 Merlot、 Cabernet Sauvignon、 Syrah/Shiraz
 
 |编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |5-1|烈马赤霞珠干红葡萄酒<br>Grand Horse Cabernet Sauvignon|加州<br>California|赤霞珠<br>Cabernet Sauvignon|2016|14.20%|干红||
-|5-2|康服帝斯庄园干红<br>Clos des Confidences|圣爱美容<br>Saint-Emilion Grand Cru|美乐90%，赤霞珠10%|2018|13.50%|干红|25%在法国新的橡木桶中发酵12-18个月<br>比1贵很多|
+|5-2|康服帝斯庄园干红<br>Clos des Confidences|圣爱美容<br>Saint-Emilion Grand Cru|美乐90%，赤霞珠10%|2018|13.50%|干红|25%在法国新的橡木桶中发酵12-18个月|
 |5-3|拉图嘉利城堡<br>Chateau La Tour Carnet|上梅多克<br>Haut-Medoc|赤霞珠、美乐<br>Cabernet Sauvignon、Merlot|2015|13.50%|干红|橡木桶陈年15个月|
 |5-4|赤琥酒庄拉斯马里亚园赤霞珠红葡萄酒<br>Gandolini Las 3 Marias Vineyards Cabernet Sauvignon|智利麦坡谷<br>Maipo Valley|赤霞珠<br>Cabernet Sauvignon|2013|14.50%|干红|90%赤霞珠<br>5.5%品丽珠<br>4.5%小味儿多<br>法国新橡木桶中陈年21-24个月，瓶中陈年2年|
 |5-5|洛神酒庄圣约瑟夫“巨石”老藤红葡萄酒<br>Tardieu-Laurent Saint Joseph Les Roches|Saint-Joseph|西拉<br>Syrah|2014|12.50%|干红|Vieilles Vignes老藤<br>18个月新橡木桶熟成有机种植酿造<br>未澄清未过滤|
-|5-6|萄贝小农庄西拉<br>Torbreck Barossa Valley The Steading Shiraz|巴罗萨谷<br>Barossa Valley|西拉<br>Shiraz|2017|15.00%|干红|Robert Parker 96<br>实际这个是6个中最浑浊的|
+|5-6|萄贝小农庄西拉<br>Torbreck Barossa Valley The Steading Shiraz|巴罗萨谷<br>Barossa Valley|西拉<br>Shiraz|2017|15.00%|干红|Robert Parker 96|
 
 ## 单元六 黑葡萄品种 Gamay、Grenache/Garnacha、Tempranillo、Carmenere、Malbec、Pinotage
 
@@ -64,8 +63,7 @@
 |6-4|天使珍藏<br>Vina Valoria Reserva Rioja Reserva|上里奥哈<br>Rioja Alta|丹魄<br>Tempranillo|2013|13.50%|干红|橡木桶陈酿24个月，瓶中熟成36个月|
 |6-5|冰川酒庄格丽佳美娜红葡萄酒<br>Ventisquero Grey Carmener(Singel Block)|智利迈坡谷<br>Maipo Valley|佳美娜<br>Carmenere|2019|13.50%|干红|100%法国橡木桶陈酿18个月(33%新桶)，瓶中陈年8个月|
 |6-6|诗梦得皮诺塔吉干红2016<br>Simonsig Pinotage 2016|南非西开普敦<br>South African WesternCape, Stellenbosch|皮诺塔基<br>Pinotage|2016|14.50%|干红|Top quality French oak staves were used on 36% of this blend.|
-|6-7+|七号酒园大师作品马尔贝克干红<br>Septima OBRA Malbec|阿根廷门多萨<br>Argentina Mendoza|马尔贝克<br>Malbec|2020|14.00%|干红|法桶和美桶陈年12个月<br>陈年潜力强|
-|      |                                                              |                                                         |                                          |      |        |      ||
+|6-7+|七号酒园大师作品马尔贝克干红<br>Septima OBRA Malbec|阿根廷门多萨<br>Argentina Mendoza|马尔贝克<br>Malbec|2020|14.00%|干红|法桶和美桶陈年12个月|
 
 ## 单元七 白葡萄品种 Cortese、Garganega、Verdicchio、Fiano 黑葡萄品种 Nebbiolo、Barbera、Corvina、Sangiovese、Montepulciano
 
@@ -83,7 +81,7 @@
 |编号|品鉴用酒|产区|葡萄品种|年份|酒精度|类型|备注|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |8-1|泰勒普罗塞克起泡白葡萄酒<br>Tallero Prosecco Treviso vino Spumante Extra Dry DOC|威尼托<br>Veneto|100%Glera格雷拉|NV|11.00%|Extra Dry<br>起泡酒||
-|8-2|菲斯奈特黑牌起泡葡萄酒<br>Freixenet cordon negro Burt|西班牙加泰罗尼亚()Catalunya)|40%帕雷亚达Parellada、35%马卡贝奥Macabeo和5%沙雷洛Xarello|NV|11.00%|起泡酒||
+|8-2|菲斯奈特黑牌起泡葡萄酒<br>Freixenet cordon negro Burt|西班牙加泰罗尼亚(Catalunya)|40%帕雷亚达Parellada、35%马卡贝奥Macabeo和5%沙雷洛Xarello|NV|11.00%|起泡酒||
 |8-3|德乐梦香槟<br>Champagne Delamotte Brut NV|香槟 白丘区<br>ChampagneCote des Blanc|55%霞多丽Chardonnay、35%黑比诺 Pinot Noil、10%皮诺莫尼耶PinotMeuniel|NV|12.00%|香槟|柑橘水果混合小白花，金银，奶油蛋卷及酵母的气息。柠檬皮的清香和生梨皮 的水润香气同时出现，隐约有白垩土带来的矿物质感。<br>酒泥陈年30-36个月|
 |8-4|恋爱季ASTI起泡酒<br>Asti|阿斯蒂<br>Asti|莫斯卡托<br>Moscato|2020|7.00%|起泡酒||
 |8-5|卢土涛珍稀赫雷斯Oloroso"欧仁妮皇后”珍藏雪莉<br>Lustau Very Rare Oloroso Emperatriz Eugenia|赫雷斯<br>Jerez-Xeres|100%Palomino|NV|20.00%|加强酒|平均年龄15年|
